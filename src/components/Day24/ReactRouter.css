@@ -1,0 +1,45 @@
+.ReactRouter_App {
+  text-align: center;
+  width: 100vw;
+}
+
+.ReactRouter_navbar {
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  background-color: #9ac5e4;
+}
+
+.ReactRouter_navbar,
+.ReactRouter_navbar ul {
+  display: flex;
+  width: 100%;
+  height: 50px;
+  padding-top: 8.5px;
+}
+
+.ReactRouter_navbar ul {
+  list-style: none;
+  justify-content: space-around;
+}
+
+.ReactRouter_navbar ul li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.ReactRouter_about-p,
+.ReactRouter_profile-p,
+.ReactRouter_dashboard-p,
+.ReactRouter_home p {
+  padding: 10px 30px;
+  margin: 10px;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  font-weight: 700;
+  border: none;
+}
+
+.ReactRouter_home button:hover {
+  background-color: rgb(141, 233, 233);
+}

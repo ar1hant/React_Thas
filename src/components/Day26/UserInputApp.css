@@ -1,0 +1,17 @@
+.UserInputApp_App {
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.UserInputApp_App input {
+  display: inline-block;
+  width: 250px;
+  height: 25px;
+  margin: 10px;
+}
+
+.UserInputApp_App h4 {
+  margin: 4px;
+  font-size: 1.15rem;
+}

@@ -1,0 +1,12 @@
+.welcome-container {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

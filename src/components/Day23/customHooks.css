@@ -1,0 +1,42 @@
+.customHooks_App {
+  
+  text-align: center;
+}
+
+.customHooks_App button {
+  padding: 20px;
+  margin: 10px auto;
+  background-color: cyan;
+  border: none;
+  width: 200px;
+}
+
+.customHooks_App h1 {
+  text-align: center;
+}
+
+.customHooks_App a {
+  display: block;
+}
+
+.customHooks_links{
+  height: 250px;
+  width: 500px;
+  display: inline-block;
+  margin: auto;
+  text-align: left;
+  overflow-y: scroll;
+}
+
+.customHooks_canHoverClass {
+  opacity: 1;
+  font-size: 2rem;
+  border: 2px solid green;
+  width: 150px;
+  display: inline-block;
+  margin: 20px auto;
+}
+
+.customHooks_canHoverClass:hover {
+  opacity: 0;
+}

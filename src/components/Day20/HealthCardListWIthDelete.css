@@ -1,0 +1,45 @@
+.HealthCardListWIthDelete_Instructions {
+  min-height: 60px;
+  padding: 15px 0px;
+  text-align: center;
+}
+
+.HealthCardListWIthDelete_App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.HealthCardListWIthDelete_Container {
+  width: 500px;
+  height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  box-shadow: rgb(0, 0, 0) 2px 3px 9px -1px;
+  padding: 10px;
+}
+
+.HealthCardListWIthDelete_Card {
+  width: 97%;
+  box-shadow: rgb(61, 88, 26) 3px 1px 9px -1px;
+  height: 90px;
+  background: rgb(107, 142, 35);
+  margin: 6px;
+  border-radius: 5px;
+  padding: 15px;
+  /* text-align: left; */
+}
+
+.HealthCardListWIthDelete_Card .HealthCardListWIthDelete_action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+  text-align: center;
+}
+
+.HealthCardListWIthDelete_empty_display {
+  display: flex;
+  justify-content: center;
+}
