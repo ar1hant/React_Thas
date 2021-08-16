@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/React_Thas/static/css/main.3ee033c3.chunk.css",
-    "main.js": "/React_Thas/static/js/main.8700fc02.chunk.js",
-    "main.js.map": "/React_Thas/static/js/main.8700fc02.chunk.js.map",
+    "main.js": "/React_Thas/static/js/main.a58c9b3e.chunk.js",
+    "main.js.map": "/React_Thas/static/js/main.a58c9b3e.chunk.js.map",
     "runtime-main.js": "/React_Thas/static/js/runtime-main.92ce2b66.js",
     "runtime-main.js.map": "/React_Thas/static/js/runtime-main.92ce2b66.js.map",
     "static/css/2.4be38407.chunk.css": "/React_Thas/static/css/2.4be38407.chunk.css",
-    "static/js/2.591a1f79.chunk.js": "/React_Thas/static/js/2.591a1f79.chunk.js",
-    "static/js/2.591a1f79.chunk.js.map": "/React_Thas/static/js/2.591a1f79.chunk.js.map",
+    "static/js/2.14a4b501.chunk.js": "/React_Thas/static/js/2.14a4b501.chunk.js",
+    "static/js/2.14a4b501.chunk.js.map": "/React_Thas/static/js/2.14a4b501.chunk.js.map",
     "index.html": "/React_Thas/index.html",
     "static/css/2.4be38407.chunk.css.map": "/React_Thas/static/css/2.4be38407.chunk.css.map",
     "static/css/main.3ee033c3.chunk.css.map": "/React_Thas/static/css/main.3ee033c3.chunk.css.map",
-    "static/js/2.591a1f79.chunk.js.LICENSE.txt": "/React_Thas/static/js/2.591a1f79.chunk.js.LICENSE.txt"
+    "static/js/2.14a4b501.chunk.js.LICENSE.txt": "/React_Thas/static/js/2.14a4b501.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.92ce2b66.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.591a1f79.chunk.js",
+    "static/js/2.14a4b501.chunk.js",
     "static/css/main.3ee033c3.chunk.css",
-    "static/js/main.8700fc02.chunk.js"
+    "static/js/main.a58c9b3e.chunk.js"
   ]
 }
