@@ -21,76 +21,74 @@ import Welcome from './components/Welcome';
 function App() {
   return (
     <div className='App'>
-      <Switch>
-        <Route exact path='/'>
-          <Header />
-          <Welcome />
-        </Route>
-        <Route path='/Day16-Cards'>
-          <Header />
-          <Card />
-        </Route>
-        <Route path='/Day16-Chessboard'>
-          <Header />
-          <Chessboard />
-        </Route>
-        <Route path='/Day17'>
-          <Header />
-          <HealthCardList />
-        </Route>
-          <Route path='/Day18-Chessboard'>
-          <Header />
-          <ChessboardEnhanced />
-        </Route>
-        <Route path='/Day18-HealthCard'>
-          <Header />
-          <HealthCardListEnhanced />
-        </Route>
-        <Route path='/Day19'>
-          <Header />
-          <CounterListAll />
-        </Route>
-        <Route path='/Day20'>
-          <Header />
-          <HealthCardListWIthDelete />
-        </Route>
-        <Route path='/Day21'>
-          <Header />
-          <HealthTodoList />
-        </Route>
-        <Route path='/Day22'>
-          {
-            // <Header />
-          }
-          <MemeList />
-        </Route>
-        <Route path='/Day23'>
-          <Header />
-          <CustomHooks />
-        </Route>
-        <Route path='/Day24'>
-          <Header />
-          <ReactRouter />
-        </Route>
-        <Route path='/Day26'>
-          <Header />
-          <UserInputApp />
-        </Route>
-        <Route path='/Day27'>
-          <Header />
-          <Todos />
-        </Route>
-        <Route path='/Day28'>
-          <Header />
-          <Weather />
-        </Route>
-        <Route path='/Day29'>
-          {
-            // <Header />
-          }
-          <WeatherMain />
-        </Route>
-      </Switch>
+      <Route exact path='/'>
+        <Header />
+        <Welcome />
+      </Route>
+      <Route path='/Day16-Cards'>
+        <Header />
+        <Card />
+      </Route>
+      <Route path='/Day16-Chessboard'>
+        <Header />
+        <Chessboard />
+      </Route>
+      <Route path='/Day17'>
+        <Header />
+        <HealthCardList />
+      </Route>
+        <Route path='/Day18-Chessboard'>
+        <Header />
+        <ChessboardEnhanced />
+      </Route>
+      <Route path='/Day18-HealthCard'>
+        <Header />
+        <HealthCardListEnhanced />
+      </Route>
+      <Route path='/Day19'>
+        <Header />
+        <CounterListAll />
+      </Route>
+      <Route path='/Day20'>
+        <Header />
+        <HealthCardListWIthDelete />
+      </Route>
+      <Route path='/Day21'>
+        <Header />
+        <HealthTodoList />
+      </Route>
+      <Route path='/Day22'>
+        {
+          // <Header />
+        }
+        <MemeList />
+      </Route>
+      <Route path='/Day23'>
+        <Header />
+        <CustomHooks />
+      </Route>
+      <Route path='/Day24'>
+        <Header />
+        <ReactRouter />
+      </Route>
+      <Route path='/Day26'>
+        <Header />
+        <UserInputApp />
+      </Route>
+      <Route path='/Day27'>
+        <Header />
+        <Todos />
+      </Route>
+      <Route path='/Day28'>
+        <Header />
+        <Weather />
+      </Route>
+      <Route path='/Day29'>
+        {
+          // <Header />
+        }
+        <WeatherMain />
+      </Route>
     </div>
   );
 }
